@@ -2,6 +2,7 @@
 from tkinter import *
 from tkinter import messagebox
 
+
 root = Tk()             # Initialize root widget
 
 task_list = []			# Empty List to enter tasks
