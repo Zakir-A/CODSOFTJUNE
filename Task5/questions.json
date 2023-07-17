@@ -1,0 +1,257 @@
+[	
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Mars", "Jupiter", "Saturn", "Earth"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": ["Brazil", "Germany", "France", "Spain"],
+        "answer": "France"
+    },
+    {
+        "question": "Which is the largest country in the world?",
+        "options": ["India", "Canada", "Russia", "China"],
+        "answer": "Russia"
+    },
+    {
+        "question": "Who is the President of India?",
+        "options": ["Ram Nath Kovind", "Narendra Modi", "Jagdeep Dhankhar", "Droupadi Murmu"],
+        "answer": "Droupadi Murmu"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yuan", "Yen", "Dollar", "Rupee"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the chemical symbol for the element Iron?",
+        "options": ["Ir", "Fe", "In", "Io"],
+        "answer": "Fe"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+    	"question": "What is the capital of Australia?",
+    	"options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    	"answer": "Canberra"
+    },
+    {
+    	"question": "Which is the longest river in the world?",
+    	"options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    	"answer": "Nile"
+    },
+    {
+    	"question": "Who painted the famous artwork 'The Starry Night'?",
+    	"options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Michelangelo"],
+	"answer": "Vincent van Gogh"
+    },
+    {
+    	"question": "Which planet is known as the 'Red Planet'?",
+    	"options": ["Mars", "Jupiter", "Saturn", "Venus"],
+    	"answer": "Mars"
+    },
+    {
+    	"question": "Which country is famous for the Taj Mahal?",
+    	"options": ["India", "China", "Egypt", "Brazil"],
+    	"answer": "India"
+    },
+    {
+    	"question": "Who is the author of the 'Harry Potter' book series?",
+    	"options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Mark Twain"],
+    	"answer": "J.K. Rowling"
+    },
+    {
+   	"question": "Which is the largest ocean in the world?",
+    	"options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+   	"answer": "Pacific Ocean"
+    },
+    {
+    	"question": "What is the chemical symbol for the element Gold?",
+    	"options": ["Au", "Ag", "Ge", "Fe"],
+    	"answer": "Au"
+    },
+    {
+    	"question": "Who is the current Prime Minister of Canada?",
+    	"options": ["Justin Trudeau", "Andrew Scheer", "Jagmeet Singh", "Erin O'Toole"],
+    	"answer": "Justin Trudeau"
+    },
+    {
+    	"question": "Which country is famous for the Great Wall of China?",
+    	"options": ["China", "Japan", "India", "Australia"],
+    	"answer": "China"
+    },
+    {
+    	"question": "Which is the largest desert in the world?",
+    	"options": ["Sahara Desert", "Gobi Desert", "Kalahari Desert", "Arabian Desert"],
+    	"answer": "Sahara Desert"
+    },
+    { 
+    	"question": "Who is the lead vocalist of the band 'Queen'?",
+    	"options": ["Freddie Mercury", "John Lennon", "Elvis Presley", "Michael Jackson"],
+    	"answer": "Freddie Mercury"
+    },
+    {
+    	"question": "Which country is known as the 'Land of the Rising Sun'?",
+    	"options": ["China", "Japan", "India", "Germany"],
+    	"answer": "Japan"
+    },
+    {
+    	"question": "Who invented the telephone?",
+    	"options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+    	"answer": "Alexander Graham Bell"
+    },
+    {
+    	"question": "What is the largest organ in the human body?",
+    	"options": ["Heart", "Liver", "Lungs", "Skin"],
+    	"answer": "Skin"
+    },
+    {
+    	"question": "Which country is known as the 'Land of the Midnight Sun'?",
+    	"options": ["Norway", "Sweden", "Canada", "Finland"],
+    	"answer": "Norway"
+    },
+    {
+    	"question": "Who is the author of 'To Kill a Mockingbird'?",
+    	"options": ["J.R.R. Tolkien", "Harper Lee", "George Orwell", "Jane Austen"],
+    	"answer": "Harper Lee"
+    },
+    {
+    	"question": "Which is the smallest continent in the world?",
+    	"options": ["Asia", "Europe", "Australia", "Antarctica"],
+    	"answer": "Australia"
+    },
+    {
+    	"question": "What is the currency of Brazil?",
+    	"options": ["Peso", "Euro", "Dollar", "Real"],
+    	"answer": "Real"
+    },
+    {
+    	"question": "Who discovered penicillin?",
+    	"options": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Alexander Fleming"],
+    	"answer": "Alexander Fleming"
+    },
+    {
+    	"question": "Which country is known as the 'Cradle of Civilization'?",
+    	"options": ["Greece", "Egypt", "India", "Iraq"],
+    	"answer": "Iraq"
+    },
+    {
+   	"question": "Who painted the famous artwork 'The Mona Lisa'?",
+    	"options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    	"answer": "Leonardo da Vinci"
+    },
+    {
+    	"question": "What is the largest species of shark?",
+    	"options": ["Great White Shark", "Whale Shark", "Tiger Shark", "Hammerhead Shark"],
+    	"answer": "Whale Shark"
+    },
+    {
+    	"question": "Which country is famous for the pyramids?",
+    	"options": ["Greece", "Egypt", "Italy", "Mexico"],
+    	"answer": "Egypt"
+    },
+    {
+    	"question": "Who is the current President of the United States?",
+    	"options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    	"answer": "Joe Biden"
+    },
+    {
+    	"question": "Which is the largest species of penguin?",
+    	"options": ["Emperor Penguin", "King Penguin", "Adelie Penguin", "Gentoo Penguin"],
+    	"answer": "Emperor Penguin"
+    },
+    {
+    	"question": "Which country is known as the 'Land of Fire and Ice'?",
+    	"options": ["Iceland", "Greenland", "Canada", "New Zealand"],
+    	"answer": "Iceland"
+    },
+    {
+    	"question": "Who wrote the play 'Romeo and Juliet'?",
+    	"options": ["William Shakespeare", "George Bernard Shaw", "Arthur Miller", "Tennessee Williams"],
+    	"answer": "William Shakespeare"
+    },
+    {
+    	"question": "What is the tallest mountain in the world?",
+    	"options": ["Mount Everest", "K2", "Kilimanjaro", "Mount Fuji"],
+    	"answer": "Mount Everest"
+    },
+    {
+    	"question": "Which country is known as the 'Land of Smiles'?",
+    	"options": ["Thailand", "Vietnam", "Cambodia", "Indonesia"],
+    	"answer": "Thailand"
+    },
+    {
+    	"question": "Who is the author of '1984'?",
+    	"options": ["J.R.R. Tolkien", "George Orwell", "Ray Bradbury", "Ernest Hemingway"],
+    	"answer": "George Orwell"
+    },
+    {
+    	"question": "What is the largest organ inside the human body?",
+    	"options": ["Liver", "Brain", "Heart", "Kidney"],
+    	"answer": "Liver"
+    },
+    {
+    	"question": "Which country is known as the 'Land of the Thunder Dragon'?",
+    	"options": ["Nepal", "Bhutan", "Tibet", "Myanmar"],
+    	"answer": "Bhutan"
+    },
+    {
+    	"question": "Who is the lead guitarist of the band 'The Rolling Stones'?",
+    	"options": ["Keith Richards", "Jimmy Page", "Eric Clapton", "Jimi Hendrix"],
+    	"answer": "Keith Richards"
+    },
+    {
+    	"question": "Which is the highest waterfall in the world?",
+    	"options": ["Niagara Falls", "Angel Falls", "Iguazu Falls", "Victoria Falls"],
+    	"answer": "Angel Falls"
+    },
+    {
+    	"question": "Which country is famous for the Colosseum?",
+    	"options": ["Greece", "Italy", "France", "Spain"],
+    	"answer": "Italy"
+    },
+    {
+    	"question": "Who is the author of 'Pride and Prejudice'?",
+    	"options": ["Jane Austen", "Emily Bronte", "Charlotte Bronte", "Virginia Woolf"],
+    	"answer": "Jane Austen"
+    },
+    {
+    	"question": "What is the largest species of bear?",
+    	"options": ["Polar Bear", "Grizzly Bear", "Black Bear", "Koala Bear"],
+    	"answer": "Polar Bear"
+    },
+    { 
+    	"question": "Which country is known as the 'Land of the Pharaohs'?",
+    	"options": ["Greece", "Egypt", "India", "Mexico"],
+    	"answer": "Egypt"
+    },
+    {
+    	"question": "Who painted the famous artwork 'The Last Supper'?",
+    	"options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    	"answer": "Leonardo da Vinci"
+    },
+    {
+    	"question": "What is the largest continent in the world?",
+    	"options": ["Africa", "Asia", "Europe", "North America"],
+    	"answer": "Asia"
+    }
+]	
